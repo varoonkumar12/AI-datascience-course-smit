@@ -1,0 +1,651 @@
+,Product_ID,Product_Name,Category,Material_Type,Recyclable,Price_USD,Rating,Supplier,Country_of_Origin,Carbon_Footprint_kgCO2
+0,EFP001,Natural Glass Spatula,Kitchen,Glass,Yes,32.49,4.59,NaturePro,Brazil,0.592
+1,EFP002,Sustainable Glass Face Cloth,Beauty,Glass,Yes,6.9,5.0,EcoLine,China,1.205
+2,EFP003,Reusable Organic Cotton Scarf,Fashion,Organic Cotton,Yes,17.01,3.92,RenewGoods,India,0.698
+3,EFP004,Biodegradable Glass Cutlery Set,Kitchen,Glass,Yes,23.92,4.53,PurePlanet,China,0.863
+4,EFP005,Eco Cork Notebook,Office,Cork,Yes,24.2,3.66,LeafWorks,Indonesia,0.546
+5,EFP006,Zero-Waste Glass Spatula,Kitchen,Glass,Yes,17.2,3.35,RenewGoods,China,0.881
+6,EFP007,Reusable Organic Cotton Soap Dish,Beauty,Organic Cotton,Yes,32.43,3.84,EcoLine,Vietnam,1.295
+7,EFP008,Handmade Recycled Metal Cutlery Set,Kitchen,Recycled Metal,Yes,14.41,4.02,PurePlanet,USA,1.031
+8,EFP009,Natural Hemp Socks,Fashion,Hemp,Yes,34.97,4.33,PurePlanet,Vietnam,0.797
+9,EFP010,Biodegradable Glass Lunch Box,Kitchen,Glass,Yes,71.91,3.02,Sustainify,China,1.659
+10,EFP011,Natural Recycled Plastic Mop Head,Cleaning,Recycled Plastic,Yes,17.9,4.13,EcoLine,India,0.614
+11,EFP012,Natural Bamboo Makeup Remover,Beauty,Bamboo,Yes,36.86,4.02,LeafWorks,China,0.206
+12,EFP013,Natural Recycled Plastic Camping Mug,Outdoors,Recycled Plastic,Yes,18.16,3.79,PurePlanet,Brazil,0.475
+13,EFP014,Reusable Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,No,65.03,4.57,NaturePro,USA,0.771
+14,EFP015,Reusable Bamboo Toothbrush,Cleaning,Bamboo,Yes,10.84,4.4,RenewGoods,Germany,0.173
+15,EFP016,Natural Recycled Plastic Sunscreen Stick,Outdoors,Recycled Plastic,No,27.86,4.79,EcoLine,Vietnam,0.972
+16,EFP017,Handmade Bamboo Plant Pot,Home,Bamboo,Yes,109.01,4.42,GreenEarth,India,0.321
+17,EFP018,Biodegradable Bamboo Mop Head,Cleaning,Bamboo,Yes,20.89,3.81,NaturePro,USA,0.25
+18,EFP019,Sustainable Bamboo Brush,Beauty,Bamboo,Yes,3.61,4.25,NaturePro,India,0.211
+19,EFP020,Sustainable Bamboo Coaster,Home,Bamboo,Yes,102.77,4.02,EcoLine,China,0.258
+20,EFP021,Eco Organic Cotton Cotton Pad,Beauty,Organic Cotton,Yes,13.82,3.71,GreenEarth,China,1.795
+21,EFP022,Handmade Recycled Plastic Lunch Box,Kitchen,Recycled Plastic,Yes,41.03,3.9,EarthCraft,Portugal,0.837
+22,EFP023,Zero-Waste Bamboo Rug,Home,Bamboo,No,112.16,3.78,Sustainify,Brazil,0.184
+23,EFP024,Sustainable Recycled Plastic Mouse Pad,Office,Recycled Plastic,Yes,34.47,4.0,Sustainify,India,0.421
+24,EFP025,Reusable Organic Cotton Rug,Home,Organic Cotton,Yes,63.49,3.99,EcoLine,India,1.474
+25,EFP026,Sustainable Hemp Coaster,Home,Hemp,Yes,83.32,3.72,EarthCraft,China,0.935
+26,EFP027,Zero-Waste Bamboo Rug,Home,Bamboo,Yes,108.63,3.05,EarthCraft,Turkey,0.163
+27,EFP028,Zero-Waste Bamboo Mop Head,Cleaning,Bamboo,Yes,17.64,4.18,RenewGoods,USA,0.135
+28,EFP029,Zero-Waste Recycled Metal Storage Jar,Kitchen,Recycled Metal,Yes,66.6,4.18,GreenEarth,India,1.943
+29,EFP030,Zero-Waste Bamboo Camping Mug,Outdoors,Bamboo,Yes,69.74,3.5,EarthCraft,India,0.212
+30,EFP031,Eco Cork Binder,Office,Cork,Yes,18.68,4.55,EcoLine,Mexico,0.364
+31,EFP032,Zero-Waste Cork Candle Holder,Home,Cork,Yes,42.22,5.0,Sustainify,Indonesia,0.306
+32,EFP033,Eco Hemp Hat,Fashion,Hemp,No,56.52,3.27,PurePlanet,Portugal,0.86
+33,EFP034,Biodegradable Recycled Metal Picnic Mat,Outdoors,Recycled Metal,No,82.03,4.24,EarthCraft,China,1.786
+34,EFP035,Biodegradable Organic Cotton Scarf,Fashion,Organic Cotton,Yes,37.67,4.69,LeafWorks,China,1.502
+35,EFP036,Sustainable Recycled Plastic Toothbrush,Cleaning,Recycled Plastic,Yes,13.11,3.46,NaturePro,China,0.561
+36,EFP037,Eco Bamboo Straw,Kitchen,Bamboo,No,58.32,3.46,Sustainify,USA,0.358
+37,EFP038,Biodegradable Bamboo Cleaning Cloth,Cleaning,Bamboo,Yes,25.54,3.41,LeafWorks,Portugal,0.234
+38,EFP039,Natural Organic Cotton Cotton Pad,Beauty,Organic Cotton,Yes,14.25,4.38,PurePlanet,USA,0.534
+39,EFP040,Zero-Waste Cork Coaster,Home,Cork,Yes,79.65,3.77,GreenEarth,China,0.507
+40,EFP041,Natural Organic Cotton Cotton Pad,Beauty,Organic Cotton,No,38.38,4.9,Sustainify,India,1.49
+41,EFP042,Natural Bamboo Vase,Home,Bamboo,Yes,85.64,3.71,EcoLine,Vietnam,0.15
+42,EFP043,Natural Recycled Plastic Cutlery Set,Kitchen,Recycled Plastic,Yes,15.87,4.15,GreenEarth,Brazil,1.088
+43,EFP044,Reusable Bamboo Soap Dish,Beauty,Bamboo,Yes,37.32,4.4,Sustainify,Vietnam,0.27
+44,EFP045,Natural Hemp Picnic Mat,Outdoors,Hemp,No,28.41,3.56,EcoLine,China,1.485
+45,EFP046,Eco Recycled Plastic Notebook,Office,Recycled Plastic,Yes,32.49,4.49,NaturePro,Germany,0.504
+46,EFP047,Biodegradable Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,Yes,62.34,3.69,EcoLine,China,1.382
+47,EFP048,Sustainable Cork Camping Mug,Outdoors,Cork,Yes,22.21,3.29,LeafWorks,Germany,0.767
+48,EFP049,Natural Bamboo Storage Jar,Kitchen,Bamboo,Yes,31.75,4.23,EcoLine,Portugal,0.375
+49,EFP050,Eco Organic Cotton Vase,Home,Organic Cotton,Yes,117.9,3.51,RenewGoods,Mexico,0.904
+50,EFP051,Handmade Recycled Metal Candle Holder,Home,Recycled Metal,Yes,145.37,4.51,RenewGoods,China,2.055
+51,EFP052,Handmade Recycled Metal Picnic Mat,Outdoors,Recycled Metal,Yes,95.32,5.0,Sustainify,India,1.911
+52,EFP053,Handmade Recycled Metal Straw,Kitchen,Recycled Metal,Yes,28.73,3.91,EarthCraft,India,1.498
+53,EFP054,Natural Hemp Plant Pot,Home,Hemp,No,48.72,4.25,Sustainify,India,0.405
+54,EFP055,Natural Glass Plant Pot,Home,Glass,Yes,107.51,4.24,PurePlanet,India,1.105
+55,EFP056,Eco Recycled Plastic Notebook,Office,Recycled Plastic,Yes,20.63,3.55,PurePlanet,China,0.456
+56,EFP057,Eco Cork Notebook,Office,Cork,Yes,25.92,2.98,LeafWorks,Brazil,0.578
+57,EFP058,Sustainable Organic Cotton Hat,Fashion,Organic Cotton,Yes,44.67,4.31,EcoLine,Vietnam,0.777
+58,EFP059,Biodegradable Bamboo Vase,Home,Bamboo,No,111.14,3.48,Sustainify,India,0.155
+59,EFP060,Natural Bamboo Soap Dish,Beauty,Bamboo,Yes,28.68,4.0,GreenEarth,Brazil,0.262
+60,EFP061,Zero-Waste Organic Cotton Brush,Beauty,Organic Cotton,Yes,59.71,5.0,PurePlanet,USA,0.94
+61,EFP062,Biodegradable Bamboo Bowl,Outdoors,Bamboo,No,40.04,4.82,PurePlanet,USA,0.118
+62,EFP063,Reusable Hemp Plant Pot,Home,Hemp,Yes,13.07,4.47,LeafWorks,USA,0.714
+63,EFP064,Zero-Waste Recycled Plastic Scrub Pad,Cleaning,Recycled Plastic,Yes,13.56,4.66,NaturePro,Vietnam,0.518
+64,EFP065,Handmade Organic Cotton Face Cloth,Beauty,Organic Cotton,No,26.29,3.94,Sustainify,Vietnam,1.064
+65,EFP066,Eco Organic Cotton Candle Holder,Home,Organic Cotton,Yes,92.48,4.28,EarthCraft,Germany,1.112
+66,EFP067,Biodegradable Recycled Metal Mouse Pad,Office,Recycled Metal,Yes,7.84,4.24,RenewGoods,USA,2.195
+67,EFP068,Handmade Organic Cotton T-Shirt,Fashion,Organic Cotton,Yes,49.95,3.97,NaturePro,Turkey,1.117
+68,EFP069,Sustainable Glass Coaster,Home,Glass,Yes,122.93,4.37,GreenEarth,USA,0.569
+69,EFP070,Sustainable Hemp Sunscreen Stick,Outdoors,Hemp,Yes,75.96,3.83,EarthCraft,Germany,1.031
+70,EFP071,Zero-Waste Recycled Metal Binder,Office,Recycled Metal,Yes,10.48,4.74,EarthCraft,USA,2.085
+71,EFP072,Zero-Waste Recycled Metal Sunscreen Stick,Outdoors,Recycled Metal,Yes,35.2,4.38,PurePlanet,USA,2.112
+72,EFP073,Natural Recycled Metal Plant Pot,Home,Recycled Metal,Yes,153.76,4.97,GreenEarth,China,1.541
+73,EFP074,Reusable Organic Cotton Vase,Home,Organic Cotton,Yes,130.19,3.85,RenewGoods,India,1.553
+74,EFP075,Handmade Recycled Plastic Cutlery Set,Kitchen,Recycled Plastic,Yes,10.25,4.98,EcoLine,Indonesia,0.744
+75,EFP076,Eco Recycled Metal Mouse Pad,Office,Recycled Metal,No,19.31,4.21,PurePlanet,Brazil,1.708
+76,EFP077,Biodegradable Hemp Rug,Home,Hemp,Yes,59.51,4.26,Sustainify,USA,0.969
+77,EFP078,Zero-Waste Organic Cotton Water Bottle,Outdoors,Organic Cotton,Yes,36.95,4.56,RenewGoods,Brazil,1.462
+78,EFP079,Sustainable Hemp Scarf,Fashion,Hemp,Yes,84.73,4.19,RenewGoods,Germany,0.541
+79,EFP080,Zero-Waste Glass Spatula,Kitchen,Glass,Yes,36.68,3.66,EarthCraft,China,0.729
+80,EFP081,Zero-Waste Organic Cotton Cotton Pad,Beauty,Organic Cotton,Yes,12.57,3.71,RenewGoods,India,0.77
+81,EFP082,Handmade Cork Desk Organizer,Office,Cork,Yes,6.8,4.35,EcoLine,Brazil,0.491
+82,EFP083,Biodegradable Bamboo Cotton Pad,Beauty,Bamboo,Yes,7.84,3.33,EcoLine,Brazil,0.388
+83,EFP084,Sustainable Cork Coaster,Home,Cork,Yes,138.49,3.36,NaturePro,USA,0.368
+84,EFP085,Biodegradable Bamboo Straw,Kitchen,Bamboo,Yes,49.68,4.71,LeafWorks,China,0.163
+85,EFP086,Eco Glass Brush,Beauty,Glass,Yes,3.88,4.1,NaturePro,Mexico,0.504
+86,EFP087,Sustainable Bamboo Soap Bar,Cleaning,Bamboo,Yes,7.92,4.51,RenewGoods,India,0.34
+87,EFP088,Biodegradable Recycled Metal Lunch Box,Kitchen,Recycled Metal,Yes,30.0,5.0,Sustainify,China,1.365
+88,EFP089,Handmade Recycled Metal Lunch Box,Kitchen,Recycled Metal,Yes,7.24,4.33,RenewGoods,Vietnam,0.952
+89,EFP090,Handmade Bamboo Face Cloth,Beauty,Bamboo,Yes,45.16,4.21,EarthCraft,China,0.307
+90,EFP091,Biodegradable Cork Picnic Mat,Outdoors,Cork,Yes,49.62,4.72,NaturePro,Brazil,0.269
+91,EFP092,Handmade Cork Binder,Office,Cork,No,46.55,4.31,EarthCraft,USA,0.511
+92,EFP093,Natural Hemp Utensil Set,Outdoors,Hemp,No,30.86,2.93,GreenEarth,India,0.778
+93,EFP094,Sustainable Recycled Plastic Sunscreen Stick,Outdoors,Recycled Plastic,Yes,94.5,3.88,LeafWorks,China,0.91
+94,EFP095,Reusable Hemp Hat,Fashion,Hemp,Yes,41.33,3.66,PurePlanet,India,1.387
+95,EFP096,Sustainable Hemp Utensil Set,Outdoors,Hemp,Yes,108.91,4.5,Sustainify,China,0.942
+96,EFP097,Handmade Recycled Metal Binder,Office,Recycled Metal,Yes,56.23,4.91,EarthCraft,Vietnam,1.858
+97,EFP098,Natural Recycled Plastic Storage Jar,Kitchen,Recycled Plastic,Yes,32.98,3.92,Sustainify,India,1.244
+98,EFP099,Sustainable Recycled Plastic Sunscreen Stick,Outdoors,Recycled Plastic,Yes,69.74,3.24,LeafWorks,India,0.525
+99,EFP100,Reusable Recycled Plastic Desk Organizer,Office,Recycled Plastic,Yes,35.72,3.84,Sustainify,India,1.128
+100,EFP101,Reusable Recycled Metal Candle Holder,Home,Recycled Metal,Yes,144.48,3.93,PurePlanet,Brazil,1.216
+101,EFP102,Natural Cork Sunscreen Stick,Outdoors,Cork,No,96.07,4.57,Sustainify,India,0.41
+102,EFP103,Biodegradable Organic Cotton Face Cloth,Beauty,Organic Cotton,Yes,35.31,4.4,PurePlanet,China,1.297
+103,EFP104,Reusable Bamboo Brush,Beauty,Bamboo,Yes,28.53,3.75,EarthCraft,China,0.272
+104,EFP105,Zero-Waste Bamboo Makeup Remover,Beauty,Bamboo,Yes,39.47,4.59,NaturePro,Mexico,0.263
+105,EFP106,Handmade Organic Cotton Water Bottle,Outdoors,Organic Cotton,Yes,18.66,5.0,EarthCraft,China,1.022
+106,EFP107,Reusable Glass Cutlery Set,Kitchen,Glass,Yes,28.66,4.04,PurePlanet,China,1.151
+107,EFP108,Sustainable Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,No,52.47,4.63,Sustainify,Turkey,1.809
+108,EFP109,Handmade Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,19.39,3.18,RenewGoods,India,0.883
+109,EFP110,Eco Glass Brush,Beauty,Glass,No,25.15,4.17,Sustainify,Germany,1.007
+110,EFP111,Reusable Organic Cotton Tote Bag,Fashion,Organic Cotton,Yes,17.13,4.42,GreenEarth,China,0.755
+111,EFP112,Eco Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,74.36,3.64,PurePlanet,Vietnam,0.75
+112,EFP113,Handmade Recycled Plastic Soap Bar,Cleaning,Recycled Plastic,Yes,6.88,3.88,Sustainify,USA,0.44
+113,EFP114,Handmade Recycled Plastic Soap Bar,Cleaning,Recycled Plastic,Yes,6.74,3.72,EcoLine,China,0.524
+114,EFP115,Eco Organic Cotton Makeup Remover,Beauty,Organic Cotton,Yes,32.94,3.78,PurePlanet,Vietnam,1.804
+115,EFP116,Zero-Waste Cork Sunscreen Stick,Outdoors,Cork,Yes,11.07,4.33,EcoLine,Indonesia,0.717
+116,EFP117,Eco Recycled Metal Water Bottle,Outdoors,Recycled Metal,Yes,25.81,4.03,EcoLine,Mexico,1.585
+117,EFP118,Eco Glass Rug,Home,Glass,Yes,73.12,2.82,NaturePro,USA,0.523
+118,EFP119,Sustainable Glass Candle Holder,Home,Glass,Yes,112.48,5.0,EarthCraft,Mexico,0.636
+119,EFP120,Natural Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,42.69,4.87,NaturePro,India,0.568
+120,EFP121,Zero-Waste Glass Vase,Home,Glass,Yes,10.85,3.81,EcoLine,USA,0.775
+121,EFP122,Handmade Organic Cotton Face Cloth,Beauty,Organic Cotton,Yes,37.97,3.55,EcoLine,Vietnam,1.437
+122,EFP123,Reusable Recycled Plastic Water Bottle,Outdoors,Recycled Plastic,Yes,12.42,5.0,EarthCraft,Germany,0.597
+123,EFP124,Sustainable Recycled Metal Plant Pot,Home,Recycled Metal,Yes,50.53,4.52,PurePlanet,USA,1.772
+124,EFP125,Biodegradable Glass Storage Jar,Kitchen,Glass,Yes,31.48,3.36,Sustainify,Vietnam,0.548
+125,EFP126,Zero-Waste Organic Cotton Scarf,Fashion,Organic Cotton,Yes,30.83,4.54,GreenEarth,USA,0.738
+126,EFP127,Biodegradable Bamboo Straw,Kitchen,Bamboo,Yes,15.96,4.23,PurePlanet,USA,0.281
+127,EFP128,Zero-Waste Recycled Plastic Camping Mug,Outdoors,Recycled Plastic,Yes,13.72,3.7,RenewGoods,China,1.255
+128,EFP129,Handmade Glass Cotton Pad,Beauty,Glass,Yes,38.6,4.5,RenewGoods,India,1.442
+129,EFP130,Natural Recycled Metal Water Bottle,Outdoors,Recycled Metal,Yes,66.57,3.61,EarthCraft,Indonesia,1.633
+130,EFP131,Natural Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,29.84,3.22,RenewGoods,USA,0.517
+131,EFP132,Reusable Organic Cotton Vase,Home,Organic Cotton,Yes,53.11,4.23,Sustainify,Indonesia,0.774
+132,EFP133,Zero-Waste Recycled Plastic File Holder,Office,Recycled Plastic,Yes,17.74,3.68,RenewGoods,India,0.555
+133,EFP134,Zero-Waste Glass Cotton Pad,Beauty,Glass,No,20.62,3.97,NaturePro,USA,0.848
+134,EFP135,Eco Glass Straw,Kitchen,Glass,Yes,54.22,2.72,EarthCraft,China,1.036
+135,EFP136,Zero-Waste Bamboo Storage Jar,Kitchen,Bamboo,No,59.99,3.72,PurePlanet,India,0.183
+136,EFP137,Handmade Glass Face Cloth,Beauty,Glass,Yes,42.61,4.25,RenewGoods,Mexico,1.241
+137,EFP138,Eco Glass Rug,Home,Glass,Yes,29.35,4.11,Sustainify,Germany,0.63
+138,EFP139,Eco Hemp Backpack,Fashion,Hemp,Yes,28.07,4.37,GreenEarth,Brazil,0.898
+139,EFP140,Reusable Recycled Metal Straw,Kitchen,Recycled Metal,Yes,38.36,5.0,EcoLine,China,1.357
+140,EFP141,Natural Hemp Plant Pot,Home,Hemp,Yes,65.73,4.21,Sustainify,USA,0.786
+141,EFP142,Reusable Recycled Plastic Dish Brush,Cleaning,Recycled Plastic,Yes,11.87,5.0,RenewGoods,Germany,1.096
+142,EFP143,Zero-Waste Organic Cotton Candle Holder,Home,Organic Cotton,Yes,31.08,3.31,EarthCraft,India,0.863
+143,EFP144,Biodegradable Bamboo Utensil Set,Outdoors,Bamboo,Yes,60.22,4.89,GreenEarth,USA,0.387
+144,EFP145,Zero-Waste Organic Cotton Brush,Beauty,Organic Cotton,Yes,11.23,4.7,EarthCraft,Indonesia,0.676
+145,EFP146,Eco Bamboo Picnic Mat,Outdoors,Bamboo,Yes,81.04,3.69,LeafWorks,USA,0.247
+146,EFP147,Handmade Cork Notebook,Office,Cork,Yes,8.53,4.04,PurePlanet,China,0.545
+147,EFP148,Sustainable Hemp Water Bottle,Outdoors,Hemp,Yes,32.03,3.61,PurePlanet,Turkey,1.128
+148,EFP149,Biodegradable Organic Cotton Cotton Pad,Beauty,Organic Cotton,Yes,41.79,3.74,PurePlanet,Vietnam,0.953
+149,EFP150,Eco Recycled Metal Vase,Home,Recycled Metal,No,94.42,3.45,EcoLine,India,1.751
+150,EFP151,Reusable Recycled Plastic File Holder,Office,Recycled Plastic,Yes,8.23,5.0,PurePlanet,India,0.496
+151,EFP152,Handmade Recycled Plastic Dish Brush,Cleaning,Recycled Plastic,Yes,22.29,4.28,LeafWorks,USA,1.059
+152,EFP153,Handmade Hemp Socks,Fashion,Hemp,No,61.82,5.0,PurePlanet,Brazil,0.909
+153,EFP154,Eco Organic Cotton Hat,Fashion,Organic Cotton,Yes,110.66,5.0,Sustainify,Indonesia,0.905
+154,EFP155,Natural Recycled Metal Binder,Office,Recycled Metal,Yes,58.64,4.23,RenewGoods,China,1.572
+155,EFP156,Biodegradable Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,9.23,4.86,PurePlanet,Germany,0.759
+156,EFP157,Biodegradable Hemp Coaster,Home,Hemp,Yes,51.6,4.69,EcoLine,Germany,0.711
+157,EFP158,Reusable Cork Binder,Office,Cork,Yes,32.07,4.24,EarthCraft,Portugal,0.371
+158,EFP159,Reusable Organic Cotton Water Bottle,Outdoors,Organic Cotton,Yes,20.32,2.58,EcoLine,India,1.474
+159,EFP160,Sustainable Recycled Plastic Cutlery Set,Kitchen,Recycled Plastic,Yes,35.2,4.17,EarthCraft,India,0.453
+160,EFP161,Zero-Waste Cork Sunscreen Stick,Outdoors,Cork,Yes,26.11,4.04,NaturePro,Indonesia,0.383
+161,EFP162,Zero-Waste Glass Rug,Home,Glass,No,74.8,3.54,PurePlanet,China,0.68
+162,EFP163,Reusable Recycled Plastic Picnic Mat,Outdoors,Recycled Plastic,Yes,24.76,3.86,GreenEarth,Mexico,0.434
+163,EFP164,Zero-Waste Recycled Plastic Notebook,Office,Recycled Plastic,Yes,18.78,3.87,GreenEarth,Portugal,0.93
+164,EFP165,Reusable Hemp Backpack,Fashion,Hemp,Yes,53.95,4.95,EcoLine,China,0.524
+165,EFP166,Reusable Organic Cotton Rug,Home,Organic Cotton,Yes,154.32,2.96,Sustainify,Germany,0.907
+166,EFP167,Handmade Hemp Socks,Fashion,Hemp,Yes,62.9,4.76,EcoLine,India,0.444
+167,EFP168,Natural Cork Rug,Home,Cork,Yes,38.6,4.96,GreenEarth,Vietnam,0.236
+168,EFP169,Handmade Bamboo Soap Bar,Cleaning,Bamboo,No,19.16,3.47,LeafWorks,China,0.143
+169,EFP170,Zero-Waste Organic Cotton Vase,Home,Organic Cotton,Yes,127.72,4.63,GreenEarth,USA,1.414
+170,EFP171,Sustainable Recycled Metal Straw,Kitchen,Recycled Metal,Yes,49.62,4.56,EcoLine,Brazil,0.693
+171,EFP172,Natural Hemp Sunscreen Stick,Outdoors,Hemp,Yes,23.18,4.01,EcoLine,China,0.652
+172,EFP173,Biodegradable Recycled Plastic Picnic Mat,Outdoors,Recycled Plastic,Yes,43.31,3.89,EarthCraft,China,0.562
+173,EFP174,Eco Bamboo Candle Holder,Home,Bamboo,Yes,69.95,4.83,LeafWorks,India,0.27
+174,EFP175,Sustainable Glass Throw Pillow,Home,Glass,Yes,77.02,4.33,GreenEarth,Turkey,1.058
+175,EFP176,Handmade Bamboo Vase,Home,Bamboo,Yes,107.44,4.14,EarthCraft,Indonesia,0.389
+176,EFP177,Zero-Waste Recycled Plastic Picnic Mat,Outdoors,Recycled Plastic,Yes,32.21,4.38,LeafWorks,USA,0.762
+177,EFP178,Biodegradable Glass Candle Holder,Home,Glass,No,29.66,3.17,GreenEarth,China,1.474
+178,EFP179,Biodegradable Bamboo Water Bottle,Outdoors,Bamboo,Yes,19.3,4.32,NaturePro,USA,0.206
+179,EFP180,Eco Recycled Plastic File Holder,Office,Recycled Plastic,Yes,27.81,3.61,RenewGoods,Indonesia,0.438
+180,EFP181,Natural Recycled Metal Sunscreen Stick,Outdoors,Recycled Metal,Yes,26.5,4.35,Sustainify,China,1.776
+181,EFP182,Handmade Recycled Plastic Reusable Wrap,Kitchen,Recycled Plastic,Yes,14.55,4.79,GreenEarth,Brazil,0.667
+182,EFP183,Handmade Recycled Plastic Sunscreen Stick,Outdoors,Recycled Plastic,Yes,38.67,4.51,EcoLine,Germany,0.492
+183,EFP184,Eco Glass Shampoo Bar,Beauty,Glass,Yes,14.43,3.76,PurePlanet,Portugal,0.766
+184,EFP185,Sustainable Organic Cotton Candle Holder,Home,Organic Cotton,Yes,105.57,3.63,GreenEarth,China,1.556
+185,EFP186,Biodegradable Glass Storage Jar,Kitchen,Glass,Yes,45.82,5.0,RenewGoods,USA,0.521
+186,EFP187,Biodegradable Organic Cotton Shampoo Bar,Beauty,Organic Cotton,Yes,30.37,5.0,GreenEarth,Indonesia,1.081
+187,EFP188,Biodegradable Bamboo Coaster,Home,Bamboo,Yes,17.47,4.14,EarthCraft,Vietnam,0.305
+188,EFP189,Natural Recycled Plastic Picnic Mat,Outdoors,Recycled Plastic,Yes,57.57,4.62,GreenEarth,India,1.047
+189,EFP190,Sustainable Bamboo Throw Pillow,Home,Bamboo,Yes,40.66,3.86,EcoLine,India,0.182
+190,EFP191,Reusable Cork Coaster,Home,Cork,Yes,104.4,4.16,Sustainify,Brazil,0.368
+191,EFP192,Eco Recycled Metal Utensil Set,Outdoors,Recycled Metal,Yes,114.09,4.57,RenewGoods,China,2.075
+192,EFP193,Sustainable Recycled Plastic Scrub Pad,Cleaning,Recycled Plastic,Yes,19.46,4.16,LeafWorks,China,0.687
+193,EFP194,Eco Hemp Hat,Fashion,Hemp,Yes,75.58,3.2,GreenEarth,Indonesia,1.245
+194,EFP195,Biodegradable Recycled Plastic Bowl,Outdoors,Recycled Plastic,Yes,19.98,3.55,GreenEarth,USA,1.267
+195,EFP196,Zero-Waste Cork Rug,Home,Cork,Yes,121.36,4.83,LeafWorks,China,0.773
+196,EFP197,Sustainable Hemp Hat,Fashion,Hemp,Yes,42.4,4.26,GreenEarth,India,0.558
+197,EFP198,Natural Organic Cotton Cotton Pad,Beauty,Organic Cotton,No,8.52,3.92,GreenEarth,USA,1.068
+198,EFP199,Handmade Bamboo Candle Holder,Home,Bamboo,Yes,14.71,5.0,NaturePro,India,0.223
+199,EFP200,Sustainable Bamboo Cutlery Set,Kitchen,Bamboo,Yes,57.12,4.32,GreenEarth,China,0.152
+200,EFP201,Handmade Recycled Metal Mouse Pad,Office,Recycled Metal,Yes,39.23,4.25,EarthCraft,Vietnam,2.4
+201,EFP202,Sustainable Hemp Bowl,Outdoors,Hemp,Yes,100.49,4.84,LeafWorks,China,1.054
+202,EFP203,Natural Bamboo Bowl,Outdoors,Bamboo,No,49.53,3.93,EcoLine,India,0.259
+203,EFP204,Eco Bamboo Picnic Mat,Outdoors,Bamboo,Yes,23.16,5.0,PurePlanet,China,0.199
+204,EFP205,Sustainable Hemp Scarf,Fashion,Hemp,Yes,32.94,4.18,EarthCraft,Germany,0.854
+205,EFP206,Zero-Waste Cork Water Bottle,Outdoors,Cork,No,30.21,4.34,Sustainify,India,0.524
+206,EFP207,Zero-Waste Recycled Plastic Toothbrush,Cleaning,Recycled Plastic,Yes,13.91,4.17,LeafWorks,Mexico,0.716
+207,EFP208,Reusable Bamboo Storage Jar,Kitchen,Bamboo,Yes,55.41,4.6,EarthCraft,USA,0.378
+208,EFP209,Natural Glass Plant Pot,Home,Glass,Yes,86.14,3.82,LeafWorks,Vietnam,0.652
+209,EFP210,Natural Bamboo Face Cloth,Beauty,Bamboo,Yes,34.76,3.88,RenewGoods,India,0.182
+210,EFP211,Eco Recycled Metal Plant Pot,Home,Recycled Metal,Yes,163.37,5.0,NaturePro,Portugal,1.519
+211,EFP212,Sustainable Organic Cotton Camping Mug,Outdoors,Organic Cotton,Yes,86.51,3.86,GreenEarth,India,0.866
+212,EFP213,Biodegradable Recycled Plastic Pen,Office,Recycled Plastic,Yes,23.64,3.83,GreenEarth,Vietnam,1.231
+213,EFP214,Natural Recycled Plastic Notebook,Office,Recycled Plastic,Yes,35.6,3.97,Sustainify,India,0.885
+214,EFP215,Reusable Recycled Metal Candle Holder,Home,Recycled Metal,Yes,22.9,3.37,PurePlanet,Indonesia,1.823
+215,EFP216,Sustainable Bamboo Vase,Home,Bamboo,Yes,15.83,3.76,LeafWorks,Indonesia,0.241
+216,EFP217,Reusable Glass Makeup Remover,Beauty,Glass,Yes,43.62,5.0,NaturePro,Brazil,1.224
+217,EFP218,Biodegradable Bamboo Brush,Beauty,Bamboo,Yes,32.99,3.88,EarthCraft,Germany,0.232
+218,EFP219,Sustainable Recycled Metal Pen,Office,Recycled Metal,Yes,45.65,4.69,EarthCraft,Portugal,1.931
+219,EFP220,Zero-Waste Bamboo Throw Pillow,Home,Bamboo,No,86.05,4.5,RenewGoods,USA,0.203
+220,EFP221,Handmade Recycled Plastic Dish Brush,Cleaning,Recycled Plastic,Yes,17.37,4.1,PurePlanet,China,0.714
+221,EFP222,Eco Recycled Plastic Binder,Office,Recycled Plastic,Yes,9.15,4.29,GreenEarth,India,0.991
+222,EFP223,Sustainable Recycled Metal Picnic Mat,Outdoors,Recycled Metal,Yes,8.08,4.31,RenewGoods,China,1.522
+223,EFP224,Eco Hemp Plant Pot,Home,Hemp,Yes,94.4,4.23,RenewGoods,USA,0.921
+224,EFP225,Reusable Organic Cotton Socks,Fashion,Organic Cotton,Yes,82.21,4.14,GreenEarth,Indonesia,1.515
+225,EFP226,Eco Glass Cutlery Set,Kitchen,Glass,Yes,12.62,4.37,EarthCraft,Vietnam,0.962
+226,EFP227,Sustainable Bamboo Picnic Mat,Outdoors,Bamboo,Yes,34.34,4.28,GreenEarth,China,0.229
+227,EFP228,Biodegradable Organic Cotton Rug,Home,Organic Cotton,Yes,18.94,3.78,RenewGoods,China,1.961
+228,EFP229,Eco Organic Cotton Face Cloth,Beauty,Organic Cotton,Yes,38.61,5.0,EarthCraft,China,1.297
+229,EFP230,Sustainable Hemp Rug,Home,Hemp,Yes,53.29,4.16,Sustainify,Brazil,0.809
+230,EFP231,Natural Organic Cotton Scarf,Fashion,Organic Cotton,Yes,30.25,3.59,RenewGoods,China,0.762
+231,EFP232,Eco Glass Shampoo Bar,Beauty,Glass,No,31.72,4.63,EcoLine,India,1.21
+232,EFP233,Natural Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,44.95,5.0,LeafWorks,Turkey,0.621
+233,EFP234,Biodegradable Organic Cotton Scarf,Fashion,Organic Cotton,No,97.94,3.56,NaturePro,China,1.365
+234,EFP235,Zero-Waste Recycled Plastic Mop Head,Cleaning,Recycled Plastic,No,7.17,3.45,EarthCraft,Germany,0.999
+235,EFP236,Handmade Hemp Backpack,Fashion,Hemp,No,81.83,5.0,EcoLine,India,1.324
+236,EFP237,Natural Bamboo Storage Jar,Kitchen,Bamboo,No,54.04,4.59,RenewGoods,Mexico,0.134
+237,EFP238,Handmade Recycled Plastic Notebook,Office,Recycled Plastic,Yes,35.56,5.0,PurePlanet,India,0.956
+238,EFP239,Eco Recycled Metal Utensil Set,Outdoors,Recycled Metal,Yes,18.42,3.79,RenewGoods,Indonesia,1.101
+239,EFP240,Reusable Recycled Metal Desk Organizer,Office,Recycled Metal,Yes,7.37,5.0,EarthCraft,India,1.354
+240,EFP241,Biodegradable Hemp Coaster,Home,Hemp,Yes,49.63,3.93,RenewGoods,Germany,0.879
+241,EFP242,Natural Hemp Utensil Set,Outdoors,Hemp,Yes,85.22,2.75,LeafWorks,Vietnam,0.888
+242,EFP243,Biodegradable Organic Cotton Camping Mug,Outdoors,Organic Cotton,Yes,51.39,4.2,EarthCraft,China,1.372
+243,EFP244,Zero-Waste Hemp Rug,Home,Hemp,Yes,69.37,3.5,EcoLine,China,0.752
+244,EFP245,Handmade Glass Rug,Home,Glass,Yes,19.09,3.6,NaturePro,Mexico,1.163
+245,EFP246,Handmade Bamboo Vase,Home,Bamboo,Yes,89.86,4.03,NaturePro,China,0.146
+246,EFP247,Zero-Waste Recycled Metal Utensil Set,Outdoors,Recycled Metal,No,84.82,4.24,EcoLine,Germany,2.098
+247,EFP248,Zero-Waste Glass Plant Pot,Home,Glass,Yes,109.42,3.81,NaturePro,USA,0.983
+248,EFP249,Eco Recycled Plastic Pen,Office,Recycled Plastic,Yes,6.24,4.99,NaturePro,USA,0.771
+249,EFP250,Handmade Recycled Plastic Reusable Wrap,Kitchen,Recycled Plastic,Yes,33.33,4.32,EarthCraft,China,0.38
+250,EFP251,Reusable Glass Makeup Remover,Beauty,Glass,Yes,13.33,4.01,GreenEarth,USA,1.347
+251,EFP252,Handmade Hemp Coaster,Home,Hemp,Yes,36.79,4.45,LeafWorks,Vietnam,1.012
+252,EFP253,Handmade Recycled Metal Utensil Set,Outdoors,Recycled Metal,Yes,75.41,4.22,NaturePro,Turkey,1.19
+253,EFP254,Handmade Recycled Plastic Cutlery Set,Kitchen,Recycled Plastic,Yes,6.23,4.27,EarthCraft,China,0.582
+254,EFP255,Handmade Recycled Plastic Mouse Pad,Office,Recycled Plastic,No,34.92,3.91,NaturePro,Germany,0.616
+255,EFP256,Biodegradable Bamboo Makeup Remover,Beauty,Bamboo,Yes,38.43,5.0,RenewGoods,Brazil,0.349
+256,EFP257,Natural Hemp Tote Bag,Fashion,Hemp,Yes,51.67,4.85,EarthCraft,USA,1.167
+257,EFP258,Biodegradable Recycled Plastic Scrub Pad,Cleaning,Recycled Plastic,Yes,10.03,4.18,NaturePro,USA,0.912
+258,EFP259,Sustainable Hemp T-Shirt,Fashion,Hemp,Yes,66.03,3.82,NaturePro,China,1.248
+259,EFP260,Sustainable Cork Plant Pot,Home,Cork,Yes,27.55,4.44,GreenEarth,India,0.623
+260,EFP261,Reusable Glass Shampoo Bar,Beauty,Glass,Yes,43.72,4.53,GreenEarth,USA,0.968
+261,EFP262,Reusable Bamboo Candle Holder,Home,Bamboo,Yes,51.0,3.98,LeafWorks,Indonesia,0.167
+262,EFP263,Eco Recycled Plastic Storage Jar,Kitchen,Recycled Plastic,No,49.33,3.42,PurePlanet,Vietnam,0.796
+263,EFP264,Biodegradable Recycled Metal Binder,Office,Recycled Metal,Yes,50.99,4.9,PurePlanet,Vietnam,0.94
+264,EFP265,Zero-Waste Organic Cotton Vase,Home,Organic Cotton,Yes,34.84,4.8,GreenEarth,Vietnam,0.95
+265,EFP266,Zero-Waste Bamboo Picnic Mat,Outdoors,Bamboo,Yes,63.47,3.9,NaturePro,India,0.151
+266,EFP267,Reusable Recycled Metal Picnic Mat,Outdoors,Recycled Metal,Yes,13.08,4.01,GreenEarth,India,2.258
+267,EFP268,Reusable Recycled Plastic Mouse Pad,Office,Recycled Plastic,Yes,25.61,5.0,EcoLine,India,0.462
+268,EFP269,Handmade Recycled Plastic Camping Mug,Outdoors,Recycled Plastic,No,22.44,4.64,LeafWorks,Portugal,0.369
+269,EFP270,Zero-Waste Recycled Metal Candle Holder,Home,Recycled Metal,No,89.73,4.23,EarthCraft,USA,1.268
+270,EFP271,Zero-Waste Organic Cotton T-Shirt,Fashion,Organic Cotton,Yes,14.55,4.75,Sustainify,China,1.099
+271,EFP272,Zero-Waste Organic Cotton Socks,Fashion,Organic Cotton,Yes,59.89,4.41,EarthCraft,India,0.609
+272,EFP273,Reusable Bamboo Cleaning Cloth,Cleaning,Bamboo,No,12.24,4.57,LeafWorks,Brazil,0.297
+273,EFP274,Sustainable Organic Cotton Water Bottle,Outdoors,Organic Cotton,Yes,78.54,3.57,LeafWorks,USA,1.306
+274,EFP275,Handmade Bamboo Throw Pillow,Home,Bamboo,Yes,97.84,4.29,GreenEarth,China,0.265
+275,EFP276,Sustainable Bamboo Shampoo Bar,Beauty,Bamboo,No,41.45,4.42,NaturePro,China,0.172
+276,EFP277,Eco Recycled Plastic Storage Jar,Kitchen,Recycled Plastic,Yes,41.68,4.58,LeafWorks,Turkey,0.731
+277,EFP278,Sustainable Recycled Plastic Scrub Pad,Cleaning,Recycled Plastic,Yes,6.93,3.51,LeafWorks,China,0.887
+278,EFP279,Sustainable Cork Utensil Set,Outdoors,Cork,Yes,91.78,4.39,EarthCraft,Vietnam,0.592
+279,EFP280,Natural Organic Cotton Socks,Fashion,Organic Cotton,Yes,88.61,4.45,RenewGoods,Germany,1.029
+280,EFP281,Biodegradable Hemp Bowl,Outdoors,Hemp,Yes,94.86,4.02,EarthCraft,India,0.953
+281,EFP282,Reusable Glass Soap Dish,Beauty,Glass,Yes,24.25,5.0,EarthCraft,China,0.801
+282,EFP283,Reusable Glass Makeup Remover,Beauty,Glass,Yes,23.62,3.61,Sustainify,China,0.728
+283,EFP284,Eco Cork Candle Holder,Home,Cork,Yes,30.75,2.91,RenewGoods,China,0.594
+284,EFP285,Handmade Glass Rug,Home,Glass,Yes,86.16,4.79,EarthCraft,Indonesia,1.02
+285,EFP286,Reusable Recycled Metal Spatula,Kitchen,Recycled Metal,Yes,6.86,4.01,LeafWorks,Mexico,1.293
+286,EFP287,Reusable Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,51.07,5.0,LeafWorks,USA,1.067
+287,EFP288,Biodegradable Glass Brush,Beauty,Glass,Yes,40.63,4.54,PurePlanet,Germany,0.575
+288,EFP289,Sustainable Bamboo Reusable Wrap,Kitchen,Bamboo,Yes,46.88,4.26,PurePlanet,Turkey,0.181
+289,EFP290,Zero-Waste Recycled Metal Desk Organizer,Office,Recycled Metal,Yes,18.43,4.16,PurePlanet,India,1.34
+290,EFP291,Handmade Recycled Plastic Picnic Mat,Outdoors,Recycled Plastic,Yes,25.79,4.31,NaturePro,India,0.659
+291,EFP292,Zero-Waste Organic Cotton Socks,Fashion,Organic Cotton,Yes,71.06,5.0,EarthCraft,China,0.877
+292,EFP293,Biodegradable Hemp Rug,Home,Hemp,Yes,35.41,4.26,GreenEarth,Germany,0.874
+293,EFP294,Biodegradable Recycled Plastic Toothbrush,Cleaning,Recycled Plastic,No,13.83,3.4,Sustainify,Germany,1.071
+294,EFP295,Biodegradable Bamboo Utensil Set,Outdoors,Bamboo,Yes,76.84,4.28,NaturePro,China,0.373
+295,EFP296,Biodegradable Recycled Plastic Cleaning Cloth,Cleaning,Recycled Plastic,No,22.31,3.94,EarthCraft,USA,0.5
+296,EFP297,Natural Bamboo Shampoo Bar,Beauty,Bamboo,Yes,28.48,3.45,GreenEarth,Vietnam,0.286
+297,EFP298,Zero-Waste Organic Cotton Tote Bag,Fashion,Organic Cotton,No,84.33,3.78,NaturePro,Portugal,1.081
+298,EFP299,Reusable Bamboo Picnic Mat,Outdoors,Bamboo,No,58.87,3.49,PurePlanet,Indonesia,0.356
+299,EFP300,Eco Bamboo Rug,Home,Bamboo,No,28.51,4.39,LeafWorks,India,0.152
+300,EFP301,Zero-Waste Cork Sunscreen Stick,Outdoors,Cork,Yes,62.32,3.87,NaturePro,Indonesia,0.549
+301,EFP302,Natural Recycled Plastic Toothbrush,Cleaning,Recycled Plastic,Yes,20.01,3.38,EarthCraft,Vietnam,0.856
+302,EFP303,Natural Recycled Metal Spatula,Kitchen,Recycled Metal,Yes,40.05,4.54,Sustainify,China,0.986
+303,EFP304,Sustainable Hemp Throw Pillow,Home,Hemp,Yes,23.53,5.0,RenewGoods,Vietnam,0.588
+304,EFP305,Natural Bamboo Straw,Kitchen,Bamboo,No,16.26,4.22,EcoLine,India,0.174
+305,EFP306,Natural Organic Cotton Shampoo Bar,Beauty,Organic Cotton,Yes,16.65,3.74,EcoLine,India,1.632
+306,EFP307,Biodegradable Organic Cotton Coaster,Home,Organic Cotton,Yes,81.53,4.94,PurePlanet,China,1.766
+307,EFP308,Biodegradable Glass Shampoo Bar,Beauty,Glass,Yes,32.15,3.47,PurePlanet,India,0.793
+308,EFP309,Reusable Organic Cotton Throw Pillow,Home,Organic Cotton,Yes,105.15,4.52,LeafWorks,USA,0.842
+309,EFP310,Handmade Recycled Plastic Sunscreen Stick,Outdoors,Recycled Plastic,Yes,12.8,3.65,Sustainify,Brazil,0.874
+310,EFP311,Sustainable Glass Face Cloth,Beauty,Glass,Yes,38.39,3.54,LeafWorks,China,1.737
+311,EFP312,Sustainable Recycled Plastic Lunch Box,Kitchen,Recycled Plastic,Yes,35.28,4.01,NaturePro,China,0.815
+312,EFP313,Biodegradable Hemp Coaster,Home,Hemp,Yes,23.04,4.28,EarthCraft,China,1.214
+313,EFP314,Reusable Recycled Plastic Straw,Kitchen,Recycled Plastic,Yes,5.18,4.11,EarthCraft,USA,0.559
+314,EFP315,Eco Recycled Plastic File Holder,Office,Recycled Plastic,Yes,6.62,3.1,EcoLine,Brazil,0.672
+315,EFP316,Natural Recycled Plastic Straw,Kitchen,Recycled Plastic,Yes,34.9,4.5,EcoLine,Portugal,1.047
+316,EFP317,Natural Bamboo Water Bottle,Outdoors,Bamboo,Yes,102.56,4.25,NaturePro,Brazil,0.263
+317,EFP318,Natural Cork Picnic Mat,Outdoors,Cork,No,93.81,4.14,RenewGoods,USA,0.585
+318,EFP319,Eco Hemp Throw Pillow,Home,Hemp,Yes,19.44,4.52,NaturePro,Vietnam,0.919
+319,EFP320,Zero-Waste Organic Cotton Rug,Home,Organic Cotton,Yes,113.49,3.66,Sustainify,Indonesia,0.877
+320,EFP321,Biodegradable Recycled Metal Picnic Mat,Outdoors,Recycled Metal,Yes,110.79,5.0,RenewGoods,USA,1.07
+321,EFP322,Natural Hemp Hat,Fashion,Hemp,Yes,39.29,4.53,Sustainify,Portugal,0.633
+322,EFP323,Handmade Recycled Metal Storage Jar,Kitchen,Recycled Metal,Yes,6.36,4.23,EcoLine,India,2.097
+323,EFP324,Zero-Waste Bamboo Coaster,Home,Bamboo,Yes,44.09,4.52,EcoLine,India,0.198
+324,EFP325,Sustainable Bamboo Camping Mug,Outdoors,Bamboo,Yes,55.38,5.0,EcoLine,China,0.14
+325,EFP326,Sustainable Cork Vase,Home,Cork,Yes,101.32,4.93,LeafWorks,India,0.368
+326,EFP327,Reusable Hemp Sunscreen Stick,Outdoors,Hemp,Yes,13.64,3.83,PurePlanet,China,0.842
+327,EFP328,Biodegradable Cork Camping Mug,Outdoors,Cork,Yes,61.42,4.02,EarthCraft,China,0.683
+328,EFP329,Natural Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,Yes,42.37,2.67,RenewGoods,China,0.883
+329,EFP330,Handmade Recycled Plastic Camping Mug,Outdoors,Recycled Plastic,Yes,36.18,4.76,NaturePro,Turkey,0.643
+330,EFP331,Zero-Waste Hemp Picnic Mat,Outdoors,Hemp,Yes,96.11,3.85,NaturePro,India,0.446
+331,EFP332,Eco Organic Cotton Brush,Beauty,Organic Cotton,No,39.21,2.65,LeafWorks,China,1.03
+332,EFP333,Natural Recycled Metal Coaster,Home,Recycled Metal,Yes,11.37,4.19,EcoLine,Indonesia,1.0
+333,EFP334,Biodegradable Bamboo Vase,Home,Bamboo,Yes,67.46,4.55,EarthCraft,China,0.16
+334,EFP335,Reusable Hemp Coaster,Home,Hemp,No,27.49,4.1,GreenEarth,Brazil,0.75
+335,EFP336,Sustainable Recycled Metal Vase,Home,Recycled Metal,Yes,86.94,5.0,RenewGoods,Portugal,2.467
+336,EFP337,Zero-Waste Recycled Plastic Mouse Pad,Office,Recycled Plastic,Yes,27.76,3.84,LeafWorks,India,0.677
+337,EFP338,Eco Organic Cotton Picnic Mat,Outdoors,Organic Cotton,No,13.45,5.0,EarthCraft,Brazil,1.164
+338,EFP339,Natural Organic Cotton Plant Pot,Home,Organic Cotton,Yes,119.02,4.98,Sustainify,Brazil,0.696
+339,EFP340,Sustainable Bamboo Rug,Home,Bamboo,Yes,27.5,5.0,PurePlanet,China,0.276
+340,EFP341,Handmade Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,Yes,10.45,3.98,LeafWorks,India,0.547
+341,EFP342,Biodegradable Hemp Bowl,Outdoors,Hemp,Yes,110.04,4.31,NaturePro,Brazil,0.699
+342,EFP343,Sustainable Organic Cotton Vase,Home,Organic Cotton,Yes,66.1,3.57,EcoLine,USA,0.661
+343,EFP344,Eco Hemp Backpack,Fashion,Hemp,No,72.25,4.52,RenewGoods,China,0.551
+344,EFP345,Reusable Glass Spatula,Kitchen,Glass,Yes,11.25,4.8,EarthCraft,India,1.069
+345,EFP346,Zero-Waste Glass Soap Dish,Beauty,Glass,Yes,11.43,3.75,EcoLine,China,1.251
+346,EFP347,Sustainable Recycled Plastic Storage Jar,Kitchen,Recycled Plastic,Yes,37.34,3.81,PurePlanet,China,1.138
+347,EFP348,Handmade Hemp Picnic Mat,Outdoors,Hemp,No,70.22,4.76,NaturePro,China,1.214
+348,EFP349,Reusable Bamboo Cutlery Set,Kitchen,Bamboo,Yes,10.82,3.57,PurePlanet,Turkey,0.251
+349,EFP350,Natural Organic Cotton Water Bottle,Outdoors,Organic Cotton,No,99.52,3.02,EarthCraft,USA,0.649
+350,EFP351,Biodegradable Cork Plant Pot,Home,Cork,Yes,121.28,4.72,GreenEarth,Vietnam,0.774
+351,EFP352,Zero-Waste Hemp T-Shirt,Fashion,Hemp,Yes,80.19,3.85,EarthCraft,China,1.072
+352,EFP353,Zero-Waste Bamboo Storage Jar,Kitchen,Bamboo,No,56.52,4.6,LeafWorks,USA,0.182
+353,EFP354,Eco Hemp Scarf,Fashion,Hemp,Yes,106.93,4.9,EarthCraft,India,0.442
+354,EFP355,Sustainable Cork Utensil Set,Outdoors,Cork,Yes,19.79,3.88,EcoLine,China,0.584
+355,EFP356,Sustainable Hemp Tote Bag,Fashion,Hemp,Yes,73.3,4.55,RenewGoods,Portugal,0.962
+356,EFP357,Handmade Organic Cotton Rug,Home,Organic Cotton,No,54.13,4.65,LeafWorks,India,1.425
+357,EFP358,Biodegradable Recycled Metal Lunch Box,Kitchen,Recycled Metal,No,17.04,4.43,EcoLine,China,0.748
+358,EFP359,Sustainable Organic Cotton Socks,Fashion,Organic Cotton,No,91.06,4.07,RenewGoods,Mexico,1.263
+359,EFP360,Zero-Waste Organic Cotton Makeup Remover,Beauty,Organic Cotton,Yes,36.39,3.69,RenewGoods,USA,1.088
+360,EFP361,Eco Glass Makeup Remover,Beauty,Glass,Yes,22.18,4.12,PurePlanet,Turkey,0.999
+361,EFP362,Reusable Recycled Metal Reusable Wrap,Kitchen,Recycled Metal,Yes,54.78,4.21,NaturePro,Brazil,2.027
+362,EFP363,Eco Organic Cotton T-Shirt,Fashion,Organic Cotton,No,37.09,4.63,EarthCraft,India,1.558
+363,EFP364,Reusable Organic Cotton Coaster,Home,Organic Cotton,Yes,80.28,3.98,RenewGoods,China,1.6
+364,EFP365,Sustainable Bamboo Coaster,Home,Bamboo,Yes,51.56,3.28,LeafWorks,Indonesia,0.264
+365,EFP366,Handmade Bamboo Picnic Mat,Outdoors,Bamboo,Yes,56.43,4.96,Sustainify,USA,0.232
+366,EFP367,Reusable Bamboo Camping Mug,Outdoors,Bamboo,Yes,57.27,5.0,PurePlanet,USA,0.333
+367,EFP368,Zero-Waste Bamboo Utensil Set,Outdoors,Bamboo,Yes,32.64,4.93,GreenEarth,India,0.206
+368,EFP369,Zero-Waste Cork Bowl,Outdoors,Cork,Yes,11.09,4.62,Sustainify,USA,0.644
+369,EFP370,Natural Bamboo Cleaning Cloth,Cleaning,Bamboo,No,12.44,4.77,RenewGoods,Turkey,0.207
+370,EFP371,Handmade Organic Cotton Makeup Remover,Beauty,Organic Cotton,No,7.79,5.0,NaturePro,India,1.966
+371,EFP372,Zero-Waste Glass Cotton Pad,Beauty,Glass,Yes,32.9,4.58,RenewGoods,Mexico,1.279
+372,EFP373,Handmade Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,Yes,19.79,3.98,RenewGoods,India,1.259
+373,EFP374,Sustainable Recycled Metal Water Bottle,Outdoors,Recycled Metal,Yes,27.3,4.85,NaturePro,Vietnam,1.024
+374,EFP375,Reusable Recycled Plastic Bowl,Outdoors,Recycled Plastic,Yes,8.25,4.28,PurePlanet,Indonesia,0.739
+375,EFP376,Zero-Waste Bamboo Bowl,Outdoors,Bamboo,Yes,27.79,3.14,PurePlanet,India,0.389
+376,EFP377,Handmade Glass Makeup Remover,Beauty,Glass,Yes,13.46,3.5,EarthCraft,Mexico,0.552
+377,EFP378,Sustainable Recycled Plastic Sunscreen Stick,Outdoors,Recycled Plastic,No,61.87,2.48,RenewGoods,USA,0.787
+378,EFP379,Handmade Hemp Vase,Home,Hemp,Yes,97.63,3.6,GreenEarth,China,1.162
+379,EFP380,Biodegradable Organic Cotton Cotton Pad,Beauty,Organic Cotton,Yes,47.18,4.38,RenewGoods,Mexico,0.616
+380,EFP381,Eco Organic Cotton Water Bottle,Outdoors,Organic Cotton,Yes,32.75,4.06,Sustainify,USA,1.004
+381,EFP382,Natural Recycled Plastic Cleaning Cloth,Cleaning,Recycled Plastic,Yes,14.13,4.42,NaturePro,India,0.457
+382,EFP383,Zero-Waste Bamboo Soap Bar,Cleaning,Bamboo,No,4.94,2.75,GreenEarth,China,0.256
+383,EFP384,Natural Cork Plant Pot,Home,Cork,Yes,11.86,4.73,Sustainify,USA,0.738
+384,EFP385,Biodegradable Organic Cotton Hat,Fashion,Organic Cotton,Yes,82.03,3.26,LeafWorks,China,1.666
+385,EFP386,Handmade Bamboo Toothbrush,Cleaning,Bamboo,Yes,10.93,3.88,GreenEarth,Vietnam,0.189
+386,EFP387,Reusable Bamboo Lunch Box,Kitchen,Bamboo,Yes,35.68,3.23,LeafWorks,USA,0.139
+387,EFP388,Biodegradable Cork Throw Pillow,Home,Cork,Yes,32.73,4.9,RenewGoods,India,0.685
+388,EFP389,Sustainable Recycled Metal Throw Pillow,Home,Recycled Metal,Yes,77.09,4.46,EcoLine,Vietnam,1.005
+389,EFP390,Eco Organic Cotton Scarf,Fashion,Organic Cotton,No,52.77,4.62,NaturePro,India,1.088
+390,EFP391,Biodegradable Bamboo Soap Bar,Cleaning,Bamboo,No,9.83,4.46,LeafWorks,Germany,0.235
+391,EFP392,Natural Glass Face Cloth,Beauty,Glass,Yes,34.74,4.74,EarthCraft,Germany,0.613
+392,EFP393,Sustainable Hemp Utensil Set,Outdoors,Hemp,Yes,85.71,3.81,NaturePro,India,0.57
+393,EFP394,Natural Organic Cotton Tote Bag,Fashion,Organic Cotton,Yes,81.21,3.72,RenewGoods,USA,0.97
+394,EFP395,Reusable Bamboo Picnic Mat,Outdoors,Bamboo,Yes,92.24,4.02,NaturePro,USA,0.408
+395,EFP396,Natural Recycled Plastic Dish Brush,Cleaning,Recycled Plastic,Yes,4.35,3.26,EcoLine,Indonesia,0.865
+396,EFP397,Reusable Cork Pen,Office,Cork,Yes,24.66,4.38,EarthCraft,USA,0.62
+397,EFP398,Reusable Recycled Plastic Picnic Mat,Outdoors,Recycled Plastic,Yes,76.05,3.75,EcoLine,Turkey,0.56
+398,EFP399,Reusable Organic Cotton Socks,Fashion,Organic Cotton,Yes,42.42,5.0,NaturePro,Turkey,1.381
+399,EFP400,Sustainable Recycled Plastic Sunscreen Stick,Outdoors,Recycled Plastic,Yes,77.31,4.85,GreenEarth,India,0.568
+400,EFP401,Handmade Recycled Plastic Binder,Office,Recycled Plastic,Yes,27.98,4.0,EarthCraft,USA,0.634
+401,EFP402,Handmade Cork Vase,Home,Cork,Yes,77.09,3.96,Sustainify,India,0.503
+402,EFP403,Natural Cork Desk Organizer,Office,Cork,Yes,7.41,4.21,GreenEarth,USA,0.695
+403,EFP404,Handmade Cork Candle Holder,Home,Cork,Yes,134.53,5.0,LeafWorks,Indonesia,0.485
+404,EFP405,Sustainable Glass Candle Holder,Home,Glass,Yes,117.41,4.91,Sustainify,Turkey,1.42
+405,EFP406,Sustainable Hemp Utensil Set,Outdoors,Hemp,Yes,16.12,5.0,NaturePro,India,0.733
+406,EFP407,Natural Recycled Metal Sunscreen Stick,Outdoors,Recycled Metal,No,101.06,3.6,GreenEarth,China,1.685
+407,EFP408,Natural Recycled Metal Notebook,Office,Recycled Metal,Yes,25.34,4.88,NaturePro,Vietnam,1.726
+408,EFP409,Natural Bamboo Spatula,Kitchen,Bamboo,No,20.74,4.7,RenewGoods,USA,0.143
+409,EFP410,Zero-Waste Recycled Plastic File Holder,Office,Recycled Plastic,Yes,7.22,4.53,GreenEarth,Germany,0.803
+410,EFP411,Sustainable Hemp Hat,Fashion,Hemp,Yes,68.22,4.8,LeafWorks,USA,1.042
+411,EFP412,Eco Recycled Plastic Spatula,Kitchen,Recycled Plastic,Yes,31.8,3.94,EarthCraft,Germany,0.814
+412,EFP413,Zero-Waste Glass Lunch Box,Kitchen,Glass,Yes,40.81,4.37,RenewGoods,Turkey,0.873
+413,EFP414,Natural Recycled Plastic Desk Organizer,Office,Recycled Plastic,Yes,12.9,4.04,NaturePro,USA,0.898
+414,EFP415,Handmade Recycled Plastic File Holder,Office,Recycled Plastic,Yes,11.9,4.51,GreenEarth,Germany,1.133
+415,EFP416,Handmade Hemp T-Shirt,Fashion,Hemp,Yes,81.17,4.31,EarthCraft,China,0.815
+416,EFP417,Reusable Cork Vase,Home,Cork,Yes,91.3,4.12,PurePlanet,China,0.565
+417,EFP418,Biodegradable Cork Notebook,Office,Cork,Yes,23.98,3.62,GreenEarth,India,0.603
+418,EFP419,Zero-Waste Hemp T-Shirt,Fashion,Hemp,Yes,39.36,4.4,Sustainify,USA,0.819
+419,EFP420,Reusable Bamboo Toothbrush,Cleaning,Bamboo,Yes,12.67,4.31,NaturePro,Germany,0.353
+420,EFP421,Eco Recycled Plastic Water Bottle,Outdoors,Recycled Plastic,Yes,8.02,3.64,GreenEarth,Mexico,0.893
+421,EFP422,Eco Recycled Plastic Cleaning Cloth,Cleaning,Recycled Plastic,Yes,17.98,4.85,GreenEarth,Brazil,0.915
+422,EFP423,Natural Bamboo Shampoo Bar,Beauty,Bamboo,Yes,6.59,4.19,NaturePro,Vietnam,0.216
+423,EFP424,Sustainable Glass Lunch Box,Kitchen,Glass,Yes,21.69,4.02,NaturePro,USA,0.993
+424,EFP425,Sustainable Recycled Metal Throw Pillow,Home,Recycled Metal,Yes,162.89,4.77,Sustainify,China,1.778
+425,EFP426,Biodegradable Bamboo Scrub Pad,Cleaning,Bamboo,Yes,6.14,5.0,RenewGoods,India,0.256
+426,EFP427,Eco Bamboo Brush,Beauty,Bamboo,Yes,32.93,4.24,PurePlanet,Turkey,0.175
+427,EFP428,Reusable Glass Shampoo Bar,Beauty,Glass,Yes,27.58,4.9,Sustainify,Brazil,0.752
+428,EFP429,Zero-Waste Organic Cotton Tote Bag,Fashion,Organic Cotton,Yes,81.01,4.31,Sustainify,USA,1.122
+429,EFP430,Natural Glass Face Cloth,Beauty,Glass,No,17.98,4.8,NaturePro,India,1.32
+430,EFP431,Sustainable Hemp Plant Pot,Home,Hemp,Yes,124.8,5.0,EarthCraft,Mexico,1.044
+431,EFP432,Eco Recycled Metal Lunch Box,Kitchen,Recycled Metal,Yes,23.15,4.99,Sustainify,China,0.923
+432,EFP433,Natural Bamboo Sunscreen Stick,Outdoors,Bamboo,Yes,50.64,4.27,RenewGoods,USA,0.31
+433,EFP434,Eco Recycled Plastic Soap Bar,Cleaning,Recycled Plastic,Yes,13.92,4.53,Sustainify,Mexico,0.554
+434,EFP435,Sustainable Bamboo Makeup Remover,Beauty,Bamboo,Yes,19.78,3.94,GreenEarth,India,0.335
+435,EFP436,Reusable Recycled Plastic Toothbrush,Cleaning,Recycled Plastic,Yes,12.1,3.78,RenewGoods,China,0.756
+436,EFP437,Biodegradable Glass Reusable Wrap,Kitchen,Glass,Yes,17.68,4.01,NaturePro,China,1.331
+437,EFP438,Zero-Waste Recycled Metal Cutlery Set,Kitchen,Recycled Metal,No,40.51,3.75,PurePlanet,China,2.019
+438,EFP439,Eco Bamboo Brush,Beauty,Bamboo,No,7.1,4.01,EcoLine,India,0.296
+439,EFP440,Biodegradable Recycled Plastic Reusable Wrap,Kitchen,Recycled Plastic,No,31.2,3.72,GreenEarth,USA,0.923
+440,EFP441,Handmade Recycled Plastic Straw,Kitchen,Recycled Plastic,Yes,17.23,3.12,LeafWorks,China,1.137
+441,EFP442,Biodegradable Recycled Metal Cutlery Set,Kitchen,Recycled Metal,Yes,47.39,3.25,EcoLine,Indonesia,2.354
+442,EFP443,Natural Bamboo Cleaning Cloth,Cleaning,Bamboo,Yes,18.22,3.91,NaturePro,China,0.159
+443,EFP444,Handmade Cork Rug,Home,Cork,No,86.58,4.29,RenewGoods,India,0.312
+444,EFP445,Handmade Organic Cotton Shampoo Bar,Beauty,Organic Cotton,Yes,27.12,4.07,LeafWorks,China,1.138
+445,EFP446,Reusable Glass Cutlery Set,Kitchen,Glass,Yes,9.1,3.61,EcoLine,Mexico,1.522
+446,EFP447,Handmade Bamboo Utensil Set,Outdoors,Bamboo,No,61.54,4.14,LeafWorks,China,0.335
+447,EFP448,Natural Recycled Plastic Pen,Office,Recycled Plastic,Yes,26.7,4.21,PurePlanet,Brazil,0.763
+448,EFP449,Zero-Waste Organic Cotton Soap Dish,Beauty,Organic Cotton,No,44.65,3.51,Sustainify,Brazil,0.612
+449,EFP450,Eco Recycled Plastic Dish Brush,Cleaning,Recycled Plastic,No,10.01,4.27,EcoLine,India,0.651
+450,EFP451,Eco Organic Cotton Socks,Fashion,Organic Cotton,No,24.32,4.96,RenewGoods,Indonesia,1.491
+451,EFP452,Sustainable Recycled Metal Cutlery Set,Kitchen,Recycled Metal,No,55.64,3.68,RenewGoods,USA,1.585
+452,EFP453,Natural Bamboo Spatula,Kitchen,Bamboo,Yes,23.82,5.0,Sustainify,Portugal,0.378
+453,EFP454,Biodegradable Recycled Plastic Mouse Pad,Office,Recycled Plastic,Yes,33.26,4.05,GreenEarth,USA,0.657
+454,EFP455,Sustainable Glass Coaster,Home,Glass,Yes,57.82,4.82,RenewGoods,Vietnam,0.767
+455,EFP456,Handmade Bamboo Shampoo Bar,Beauty,Bamboo,Yes,18.97,4.88,RenewGoods,Vietnam,0.32
+456,EFP457,Natural Recycled Metal Picnic Mat,Outdoors,Recycled Metal,Yes,21.18,4.99,Sustainify,China,1.056
+457,EFP458,Eco Recycled Metal Cutlery Set,Kitchen,Recycled Metal,Yes,33.58,5.0,EarthCraft,India,1.843
+458,EFP459,Zero-Waste Bamboo Cotton Pad,Beauty,Bamboo,Yes,16.96,4.18,PurePlanet,Indonesia,0.25
+459,EFP460,Biodegradable Bamboo Brush,Beauty,Bamboo,Yes,20.11,4.37,Sustainify,Indonesia,0.306
+460,EFP461,Reusable Organic Cotton Backpack,Fashion,Organic Cotton,No,39.82,4.15,RenewGoods,USA,0.624
+461,EFP462,Eco Glass Candle Holder,Home,Glass,No,103.04,3.98,EarthCraft,USA,0.96
+462,EFP463,Eco Recycled Plastic Straw,Kitchen,Recycled Plastic,Yes,11.19,4.62,NaturePro,China,0.948
+463,EFP464,Reusable Bamboo Cutlery Set,Kitchen,Bamboo,No,56.2,4.0,LeafWorks,Vietnam,0.342
+464,EFP465,Sustainable Cork Rug,Home,Cork,Yes,52.08,3.48,GreenEarth,China,0.54
+465,EFP466,Eco Bamboo Camping Mug,Outdoors,Bamboo,No,79.92,4.29,LeafWorks,China,0.219
+466,EFP467,Sustainable Cork Candle Holder,Home,Cork,Yes,35.72,4.1,RenewGoods,USA,0.481
+467,EFP468,Natural Recycled Plastic Camping Mug,Outdoors,Recycled Plastic,Yes,46.21,3.92,NaturePro,India,0.687
+468,EFP469,Sustainable Recycled Plastic Toothbrush,Cleaning,Recycled Plastic,Yes,13.36,2.68,Sustainify,Vietnam,1.282
+469,EFP470,Eco Recycled Plastic Water Bottle,Outdoors,Recycled Plastic,Yes,55.12,4.03,NaturePro,USA,0.733
+470,EFP471,Biodegradable Glass Cotton Pad,Beauty,Glass,No,18.62,5.0,EcoLine,Mexico,0.915
+471,EFP472,Sustainable Recycled Metal Picnic Mat,Outdoors,Recycled Metal,Yes,118.11,3.3,LeafWorks,Portugal,1.816
+472,EFP473,Reusable Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,17.21,4.36,Sustainify,China,0.703
+473,EFP474,Handmade Hemp Coaster,Home,Hemp,No,117.98,3.99,LeafWorks,Brazil,1.034
+474,EFP475,Reusable Cork Coaster,Home,Cork,Yes,75.18,3.14,PurePlanet,USA,0.355
+475,EFP476,Handmade Hemp Water Bottle,Outdoors,Hemp,No,79.3,4.96,Sustainify,USA,0.892
+476,EFP477,Handmade Cork Desk Organizer,Office,Cork,No,29.49,4.17,NaturePro,China,0.732
+477,EFP478,Natural Glass Brush,Beauty,Glass,No,35.3,4.37,EcoLine,Vietnam,0.611
+478,EFP479,Reusable Organic Cotton Rug,Home,Organic Cotton,No,130.03,4.56,EarthCraft,USA,1.505
+479,EFP480,Eco Bamboo Toothbrush,Cleaning,Bamboo,Yes,5.47,2.44,Sustainify,China,0.325
+480,EFP481,Reusable Recycled Plastic Binder,Office,Recycled Plastic,Yes,23.11,3.62,LeafWorks,Brazil,0.876
+481,EFP482,Eco Hemp Coaster,Home,Hemp,Yes,43.07,3.37,NaturePro,Turkey,0.596
+482,EFP483,Natural Hemp Coaster,Home,Hemp,Yes,109.86,4.64,RenewGoods,Germany,0.912
+483,EFP484,Reusable Organic Cotton Cotton Pad,Beauty,Organic Cotton,Yes,48.46,4.51,RenewGoods,Turkey,1.453
+484,EFP485,Reusable Cork Utensil Set,Outdoors,Cork,Yes,86.15,4.18,LeafWorks,India,0.299
+485,EFP486,Natural Glass Straw,Kitchen,Glass,Yes,25.74,3.67,PurePlanet,China,0.725
+486,EFP487,Eco Recycled Metal Binder,Office,Recycled Metal,Yes,50.54,3.06,LeafWorks,Portugal,0.934
+487,EFP488,Sustainable Cork Vase,Home,Cork,Yes,111.77,4.33,EarthCraft,China,0.244
+488,EFP489,Natural Recycled Metal Plant Pot,Home,Recycled Metal,Yes,65.83,3.74,GreenEarth,Turkey,2.298
+489,EFP490,Zero-Waste Glass Shampoo Bar,Beauty,Glass,Yes,25.69,3.64,Sustainify,India,0.839
+490,EFP491,Biodegradable Bamboo Face Cloth,Beauty,Bamboo,Yes,13.42,4.24,RenewGoods,USA,0.234
+491,EFP492,Zero-Waste Recycled Plastic Cleaning Cloth,Cleaning,Recycled Plastic,Yes,7.8,4.37,LeafWorks,USA,0.744
+492,EFP493,Biodegradable Bamboo Sunscreen Stick,Outdoors,Bamboo,No,59.0,4.33,Sustainify,China,0.212
+493,EFP494,Eco Bamboo Soap Bar,Cleaning,Bamboo,Yes,24.27,3.91,GreenEarth,China,0.267
+494,EFP495,Biodegradable Bamboo Camping Mug,Outdoors,Bamboo,Yes,20.18,4.18,GreenEarth,India,0.171
+495,EFP496,Eco Cork File Holder,Office,Cork,Yes,23.99,3.14,NaturePro,Germany,0.571
+496,EFP497,Natural Recycled Plastic Storage Jar,Kitchen,Recycled Plastic,Yes,3.71,4.0,Sustainify,USA,0.779
+497,EFP498,Natural Recycled Plastic File Holder,Office,Recycled Plastic,Yes,12.11,4.29,GreenEarth,China,0.523
+498,EFP499,Eco Recycled Plastic Camping Mug,Outdoors,Recycled Plastic,Yes,30.83,3.91,RenewGoods,China,1.122
+499,EFP500,Zero-Waste Hemp Sunscreen Stick,Outdoors,Hemp,Yes,57.03,4.72,EcoLine,China,0.945
+500,EFP501,Handmade Glass Straw,Kitchen,Glass,Yes,10.8,2.74,RenewGoods,USA,1.235
+501,EFP502,Biodegradable Hemp Coaster,Home,Hemp,Yes,8.87,4.12,NaturePro,India,1.133
+502,EFP503,Eco Recycled Plastic Cleaning Cloth,Cleaning,Recycled Plastic,Yes,24.43,4.25,EarthCraft,India,0.513
+503,EFP504,Reusable Hemp Water Bottle,Outdoors,Hemp,No,88.64,4.32,GreenEarth,China,0.49
+504,EFP505,Reusable Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,Yes,110.68,3.33,RenewGoods,Turkey,0.789
+505,EFP506,Reusable Recycled Plastic Sunscreen Stick,Outdoors,Recycled Plastic,Yes,28.96,2.82,GreenEarth,India,0.909
+506,EFP507,Sustainable Hemp Scarf,Fashion,Hemp,No,89.15,4.57,NaturePro,China,1.006
+507,EFP508,Reusable Recycled Metal Candle Holder,Home,Recycled Metal,Yes,45.46,3.52,NaturePro,China,1.518
+508,EFP509,Handmade Bamboo Camping Mug,Outdoors,Bamboo,Yes,18.83,3.68,PurePlanet,India,0.273
+509,EFP510,Zero-Waste Recycled Metal Storage Jar,Kitchen,Recycled Metal,Yes,52.54,4.88,LeafWorks,Indonesia,1.866
+510,EFP511,Sustainable Recycled Plastic Spatula,Kitchen,Recycled Plastic,Yes,19.27,4.22,RenewGoods,China,0.686
+511,EFP512,Sustainable Bamboo Rug,Home,Bamboo,No,9.48,3.6,GreenEarth,Portugal,0.171
+512,EFP513,Handmade Recycled Plastic Reusable Wrap,Kitchen,Recycled Plastic,Yes,9.81,2.66,LeafWorks,Indonesia,0.813
+513,EFP514,Sustainable Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,Yes,8.64,4.09,NaturePro,India,1.632
+514,EFP515,Biodegradable Bamboo Vase,Home,Bamboo,Yes,80.45,4.63,RenewGoods,Indonesia,0.311
+515,EFP516,Biodegradable Organic Cotton Coaster,Home,Organic Cotton,Yes,23.6,4.63,PurePlanet,Portugal,1.607
+516,EFP517,Natural Bamboo Shampoo Bar,Beauty,Bamboo,No,7.59,4.26,GreenEarth,Mexico,0.206
+517,EFP518,Zero-Waste Organic Cotton Brush,Beauty,Organic Cotton,No,3.65,5.0,LeafWorks,India,1.556
+518,EFP519,Zero-Waste Recycled Plastic Cutlery Set,Kitchen,Recycled Plastic,Yes,39.73,4.3,RenewGoods,Brazil,0.935
+519,EFP520,Sustainable Recycled Metal Water Bottle,Outdoors,Recycled Metal,Yes,49.0,4.35,GreenEarth,India,0.81
+520,EFP521,Sustainable Recycled Plastic Scrub Pad,Cleaning,Recycled Plastic,Yes,9.11,4.09,Sustainify,Indonesia,0.544
+521,EFP522,Eco Organic Cotton Tote Bag,Fashion,Organic Cotton,Yes,106.84,5.0,LeafWorks,Vietnam,1.679
+522,EFP523,Zero-Waste Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,Yes,95.17,3.44,GreenEarth,Vietnam,0.695
+523,EFP524,Zero-Waste Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,Yes,81.84,3.83,EarthCraft,Germany,1.032
+524,EFP525,Biodegradable Organic Cotton Plant Pot,Home,Organic Cotton,No,132.53,5.0,GreenEarth,India,0.83
+525,EFP526,Handmade Recycled Plastic Scrub Pad,Cleaning,Recycled Plastic,No,20.0,3.59,Sustainify,Vietnam,0.864
+526,EFP527,Zero-Waste Glass Vase,Home,Glass,Yes,83.68,3.7,EcoLine,USA,0.81
+527,EFP528,Handmade Bamboo Lunch Box,Kitchen,Bamboo,Yes,31.46,5.0,PurePlanet,Germany,0.273
+528,EFP529,Biodegradable Cork Bowl,Outdoors,Cork,Yes,12.32,4.09,RenewGoods,Indonesia,0.512
+529,EFP530,Natural Recycled Plastic Cleaning Cloth,Cleaning,Recycled Plastic,Yes,4.81,5.0,RenewGoods,Germany,0.63
+530,EFP531,Biodegradable Bamboo Soap Dish,Beauty,Bamboo,Yes,5.84,3.94,PurePlanet,India,0.312
+531,EFP532,Natural Bamboo Soap Bar,Cleaning,Bamboo,Yes,28.79,4.55,PurePlanet,India,0.365
+532,EFP533,Reusable Recycled Metal Camping Mug,Outdoors,Recycled Metal,Yes,65.85,5.0,Sustainify,Portugal,0.978
+533,EFP534,Biodegradable Hemp Picnic Mat,Outdoors,Hemp,Yes,93.2,3.38,NaturePro,Brazil,1.32
+534,EFP535,Zero-Waste Glass Plant Pot,Home,Glass,Yes,148.33,4.46,EcoLine,Germany,1.065
+535,EFP536,Biodegradable Cork Plant Pot,Home,Cork,Yes,71.02,4.21,EarthCraft,Portugal,0.414
+536,EFP537,Handmade Glass Shampoo Bar,Beauty,Glass,Yes,30.93,5.0,NaturePro,India,0.797
+537,EFP538,Handmade Recycled Plastic File Holder,Office,Recycled Plastic,Yes,2.92,4.41,NaturePro,Portugal,0.929
+538,EFP539,Reusable Hemp Water Bottle,Outdoors,Hemp,Yes,63.26,4.73,PurePlanet,USA,0.882
+539,EFP540,Sustainable Hemp Plant Pot,Home,Hemp,Yes,55.41,3.93,GreenEarth,USA,0.932
+540,EFP541,Sustainable Hemp Sunscreen Stick,Outdoors,Hemp,Yes,17.45,4.65,Sustainify,USA,1.029
+541,EFP542,Natural Hemp Rug,Home,Hemp,Yes,105.08,4.09,NaturePro,China,0.887
+542,EFP543,Zero-Waste Organic Cotton Sunscreen Stick,Outdoors,Organic Cotton,Yes,122.94,3.08,NaturePro,Turkey,1.281
+543,EFP544,Biodegradable Recycled Plastic Soap Bar,Cleaning,Recycled Plastic,Yes,14.29,4.8,EarthCraft,India,0.769
+544,EFP545,Handmade Recycled Metal Rug,Home,Recycled Metal,Yes,44.86,4.21,GreenEarth,China,0.906
+545,EFP546,Zero-Waste Recycled Plastic Picnic Mat,Outdoors,Recycled Plastic,No,7.41,3.63,RenewGoods,China,0.916
+546,EFP547,Natural Recycled Plastic Notebook,Office,Recycled Plastic,Yes,36.19,5.0,Sustainify,China,0.857
+547,EFP548,Biodegradable Bamboo Cutlery Set,Kitchen,Bamboo,No,19.3,3.26,PurePlanet,China,0.41
+548,EFP549,Eco Recycled Plastic Pen,Office,Recycled Plastic,Yes,32.31,4.12,PurePlanet,Portugal,0.66
+549,EFP550,Biodegradable Recycled Plastic Mouse Pad,Office,Recycled Plastic,No,20.48,5.0,LeafWorks,Mexico,0.742
+550,EFP551,Handmade Recycled Plastic Dish Brush,Cleaning,Recycled Plastic,Yes,7.2,2.64,Sustainify,India,1.116
+551,EFP552,Eco Cork Vase,Home,Cork,Yes,51.87,4.32,NaturePro,China,0.673
+552,EFP553,Biodegradable Recycled Metal Straw,Kitchen,Recycled Metal,Yes,18.78,3.13,EcoLine,Germany,1.13
+553,EFP554,Handmade Bamboo Mop Head,Cleaning,Bamboo,Yes,8.45,4.39,GreenEarth,USA,0.133
+554,EFP555,Biodegradable Recycled Plastic Mouse Pad,Office,Recycled Plastic,Yes,17.47,3.55,EcoLine,India,0.449
+555,EFP556,Natural Glass Soap Dish,Beauty,Glass,Yes,43.96,3.55,NaturePro,USA,0.812
+556,EFP557,Sustainable Hemp Bowl,Outdoors,Hemp,Yes,90.11,3.16,GreenEarth,Turkey,0.814
+557,EFP558,Handmade Recycled Plastic Soap Bar,Cleaning,Recycled Plastic,Yes,17.55,3.79,Sustainify,India,0.787
+558,EFP559,Sustainable Recycled Plastic Toothbrush,Cleaning,Recycled Plastic,Yes,22.72,3.84,Sustainify,Vietnam,0.879
+559,EFP560,Eco Recycled Plastic Toothbrush,Cleaning,Recycled Plastic,Yes,6.15,5.0,GreenEarth,Indonesia,0.773
+560,EFP561,Handmade Glass Storage Jar,Kitchen,Glass,Yes,55.34,4.59,GreenEarth,Portugal,0.902
+561,EFP562,Natural Glass Plant Pot,Home,Glass,Yes,90.64,3.3,GreenEarth,Turkey,1.029
+562,EFP563,Handmade Hemp Plant Pot,Home,Hemp,Yes,66.78,4.52,RenewGoods,Brazil,1.04
+563,EFP564,Handmade Bamboo Toothbrush,Cleaning,Bamboo,Yes,25.6,4.73,NaturePro,India,0.354
+564,EFP565,Biodegradable Hemp Utensil Set,Outdoors,Hemp,Yes,37.79,3.87,LeafWorks,China,0.91
+565,EFP566,Handmade Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,76.85,3.54,EarthCraft,Turkey,0.94
+566,EFP567,Reusable Glass Storage Jar,Kitchen,Glass,Yes,64.23,3.54,EcoLine,Mexico,1.405
+567,EFP568,Sustainable Hemp Hat,Fashion,Hemp,Yes,36.44,3.97,EarthCraft,China,0.912
+568,EFP569,Eco Recycled Plastic Binder,Office,Recycled Plastic,Yes,31.09,3.29,NaturePro,USA,1.025
+569,EFP570,Eco Recycled Plastic Picnic Mat,Outdoors,Recycled Plastic,Yes,55.51,3.99,LeafWorks,China,0.451
+570,EFP571,Sustainable Hemp Bowl,Outdoors,Hemp,Yes,87.89,4.5,Sustainify,Mexico,0.886
+571,EFP572,Sustainable Glass Rug,Home,Glass,Yes,28.85,3.88,GreenEarth,USA,0.639
+572,EFP573,Biodegradable Recycled Metal Desk Organizer,Office,Recycled Metal,Yes,20.62,4.84,RenewGoods,China,1.237
+573,EFP574,Eco Hemp Water Bottle,Outdoors,Hemp,Yes,70.93,4.57,NaturePro,USA,0.955
+574,EFP575,Eco Recycled Plastic Camping Mug,Outdoors,Recycled Plastic,Yes,48.93,3.13,LeafWorks,India,0.586
+575,EFP576,Reusable Cork Rug,Home,Cork,Yes,78.76,4.45,RenewGoods,USA,0.588
+576,EFP577,Handmade Organic Cotton Picnic Mat,Outdoors,Organic Cotton,Yes,16.5,3.88,GreenEarth,Indonesia,1.234
+577,EFP578,Biodegradable Recycled Plastic Straw,Kitchen,Recycled Plastic,Yes,6.33,3.18,GreenEarth,USA,1.131
+578,EFP579,Handmade Bamboo Coaster,Home,Bamboo,Yes,89.14,3.98,PurePlanet,Portugal,0.257
+579,EFP580,Natural Recycled Plastic Utensil Set,Outdoors,Recycled Plastic,Yes,25.0,3.4,Sustainify,Indonesia,0.861
+580,EFP581,Biodegradable Organic Cotton Bowl,Outdoors,Organic Cotton,Yes,15.05,4.06,EarthCraft,China,1.508
+581,EFP582,Natural Recycled Metal Coaster,Home,Recycled Metal,Yes,69.89,3.65,PurePlanet,USA,1.236
+582,EFP583,Reusable Recycled Plastic Storage Jar,Kitchen,Recycled Plastic,Yes,14.22,3.65,RenewGoods,China,1.044
+583,EFP584,Handmade Glass Storage Jar,Kitchen,Glass,Yes,36.46,3.6,EarthCraft,Turkey,0.744
+584,EFP585,Handmade Bamboo Face Cloth,Beauty,Bamboo,Yes,13.67,5.0,GreenEarth,Turkey,0.258
+585,EFP586,Eco Recycled Plastic Cleaning Cloth,Cleaning,Recycled Plastic,Yes,5.67,5.0,EcoLine,USA,0.632
+586,EFP587,Handmade Recycled Plastic Sunscreen Stick,Outdoors,Recycled Plastic,No,62.56,3.53,NaturePro,Vietnam,0.958
+587,EFP588,Zero-Waste Bamboo Storage Jar,Kitchen,Bamboo,Yes,50.58,3.65,LeafWorks,USA,0.207
+588,EFP589,Zero-Waste Recycled Plastic Soap Bar,Cleaning,Recycled Plastic,No,20.58,4.43,PurePlanet,USA,0.968
+589,EFP590,Biodegradable Bamboo Sunscreen Stick,Outdoors,Bamboo,No,34.46,3.4,PurePlanet,Indonesia,0.243
+590,EFP591,Biodegradable Recycled Plastic File Holder,Office,Recycled Plastic,No,20.97,4.87,Sustainify,China,0.585
+591,EFP592,Natural Glass Vase,Home,Glass,No,114.39,4.0,NaturePro,Mexico,0.543
+592,EFP593,Sustainable Glass Lunch Box,Kitchen,Glass,Yes,11.24,4.12,LeafWorks,Brazil,0.767
+593,EFP594,Sustainable Recycled Metal Binder,Office,Recycled Metal,No,33.02,4.7,RenewGoods,Vietnam,1.722
+594,EFP595,Handmade Hemp Utensil Set,Outdoors,Hemp,Yes,64.03,3.9,EcoLine,USA,0.749
+595,EFP596,Biodegradable Bamboo Storage Jar,Kitchen,Bamboo,Yes,38.78,4.36,PurePlanet,Brazil,0.171
+596,EFP597,Natural Bamboo Brush,Beauty,Bamboo,Yes,13.46,4.16,EcoLine,Vietnam,0.321
+597,EFP598,Handmade Organic Cotton Socks,Fashion,Organic Cotton,Yes,62.7,3.77,Sustainify,Brazil,1.842
+598,EFP599,Handmade Recycled Plastic Scrub Pad,Cleaning,Recycled Plastic,Yes,21.61,4.25,PurePlanet,Vietnam,0.58
+599,EFP600,Zero-Waste Bamboo Picnic Mat,Outdoors,Bamboo,No,75.81,4.65,LeafWorks,Mexico,0.21
+600,EFP601,Sustainable Bamboo Cotton Pad,Beauty,Bamboo,No,21.79,4.84,EarthCraft,Turkey,0.188
+601,EFP602,Biodegradable Hemp Bowl,Outdoors,Hemp,Yes,101.17,5.0,Sustainify,Turkey,1.095
+602,EFP603,Reusable Cork Mouse Pad,Office,Cork,No,25.89,3.84,GreenEarth,China,0.511
+603,EFP604,Zero-Waste Bamboo Coaster,Home,Bamboo,Yes,98.46,5.0,PurePlanet,USA,0.298
+604,EFP605,Eco Bamboo Plant Pot,Home,Bamboo,Yes,49.5,4.22,NaturePro,China,0.15
+605,EFP606,Handmade Cork Water Bottle,Outdoors,Cork,No,78.11,3.05,PurePlanet,USA,0.603
+606,EFP607,Handmade Recycled Plastic Notebook,Office,Recycled Plastic,Yes,23.07,4.03,Sustainify,Mexico,0.399
+607,EFP608,Sustainable Recycled Plastic Cleaning Cloth,Cleaning,Recycled Plastic,Yes,19.06,4.03,GreenEarth,India,1.054
+608,EFP609,Natural Hemp Utensil Set,Outdoors,Hemp,Yes,16.71,3.55,Sustainify,Mexico,0.911
+609,EFP610,Handmade Glass Rug,Home,Glass,Yes,51.39,3.7,EcoLine,China,1.48
+610,EFP611,Sustainable Organic Cotton Vase,Home,Organic Cotton,No,62.1,4.12,Sustainify,Mexico,0.99
+611,EFP612,Handmade Glass Throw Pillow,Home,Glass,No,144.3,4.4,RenewGoods,India,0.616
+612,EFP613,Handmade Recycled Metal Lunch Box,Kitchen,Recycled Metal,Yes,46.67,4.42,EarthCraft,USA,2.021
+613,EFP614,Sustainable Organic Cotton Plant Pot,Home,Organic Cotton,Yes,144.8,4.01,GreenEarth,China,1.127
+614,EFP615,Eco Cork Sunscreen Stick,Outdoors,Cork,Yes,22.2,4.53,Sustainify,Vietnam,0.318
+615,EFP616,Reusable Recycled Metal Notebook,Office,Recycled Metal,Yes,10.09,3.65,RenewGoods,Vietnam,2.004
+616,EFP617,Reusable Cork Bowl,Outdoors,Cork,Yes,46.88,3.77,LeafWorks,China,0.285
+617,EFP618,Sustainable Bamboo Reusable Wrap,Kitchen,Bamboo,Yes,35.15,3.44,Sustainify,Portugal,0.157
+618,EFP619,Zero-Waste Recycled Plastic Bowl,Outdoors,Recycled Plastic,Yes,32.59,4.81,EcoLine,India,0.679
+619,EFP620,Biodegradable Bamboo Mop Head,Cleaning,Bamboo,Yes,17.3,5.0,EcoLine,Vietnam,0.257
+620,EFP621,Natural Bamboo Coaster,Home,Bamboo,No,63.64,4.4,PurePlanet,Germany,0.217
+621,EFP622,Zero-Waste Organic Cotton Picnic Mat,Outdoors,Organic Cotton,No,63.34,4.75,EcoLine,USA,0.819
+622,EFP623,Zero-Waste Recycled Plastic Mop Head,Cleaning,Recycled Plastic,Yes,15.64,4.72,PurePlanet,Mexico,0.557
+623,EFP624,Sustainable Bamboo Face Cloth,Beauty,Bamboo,No,17.65,4.06,NaturePro,China,0.26
+624,EFP625,Sustainable Bamboo Throw Pillow,Home,Bamboo,Yes,63.95,5.0,GreenEarth,India,0.154
+625,EFP626,Zero-Waste Recycled Metal Camping Mug,Outdoors,Recycled Metal,No,90.05,4.8,NaturePro,China,2.259
+626,EFP627,Eco Organic Cotton Cotton Pad,Beauty,Organic Cotton,Yes,48.98,4.86,EcoLine,Indonesia,0.938
+627,EFP628,Biodegradable Cork Picnic Mat,Outdoors,Cork,Yes,94.69,3.82,PurePlanet,Vietnam,0.4
+628,EFP629,Sustainable Organic Cotton Vase,Home,Organic Cotton,Yes,72.74,4.17,LeafWorks,India,0.804
+629,EFP630,Natural Glass Storage Jar,Kitchen,Glass,Yes,29.52,4.23,Sustainify,India,1.171
+630,EFP631,Sustainable Recycled Plastic File Holder,Office,Recycled Plastic,Yes,21.28,4.92,LeafWorks,Turkey,0.867
+631,EFP632,Natural Cork Coaster,Home,Cork,Yes,71.35,3.9,Sustainify,Brazil,0.353
+632,EFP633,Reusable Glass Plant Pot,Home,Glass,Yes,47.8,3.84,LeafWorks,Indonesia,1.3
+633,EFP634,Zero-Waste Recycled Plastic Desk Organizer,Office,Recycled Plastic,Yes,22.43,2.88,NaturePro,Vietnam,0.604
+634,EFP635,Sustainable Bamboo Cotton Pad,Beauty,Bamboo,Yes,19.87,4.56,GreenEarth,Brazil,0.214
+635,EFP636,Eco Hemp Bowl,Outdoors,Hemp,No,85.34,4.6,RenewGoods,Brazil,1.234
+636,EFP637,Natural Organic Cotton Scarf,Fashion,Organic Cotton,Yes,85.35,4.45,EarthCraft,Vietnam,1.396
+637,EFP638,Handmade Bamboo Camping Mug,Outdoors,Bamboo,Yes,18.61,3.68,PurePlanet,China,0.38
+638,EFP639,Natural Recycled Plastic Straw,Kitchen,Recycled Plastic,Yes,55.08,5.0,Sustainify,Indonesia,1.063
+639,EFP640,Reusable Hemp Bowl,Outdoors,Hemp,No,61.51,4.84,NaturePro,USA,0.946
+640,EFP641,Handmade Bamboo Vase,Home,Bamboo,No,35.31,3.55,EarthCraft,Portugal,0.181
+641,EFP642,Eco Bamboo Camping Mug,Outdoors,Bamboo,Yes,84.52,3.73,Sustainify,China,0.148
+642,EFP643,Zero-Waste Organic Cotton Makeup Remover,Beauty,Organic Cotton,No,39.65,4.51,EcoLine,China,1.302
+643,EFP644,Sustainable Glass Spatula,Kitchen,Glass,Yes,44.34,4.82,PurePlanet,Indonesia,1.5
+644,EFP645,Biodegradable Organic Cotton Throw Pillow,Home,Organic Cotton,Yes,52.35,4.56,GreenEarth,USA,0.882
+645,EFP646,Zero-Waste Recycled Plastic Scrub Pad,Cleaning,Recycled Plastic,Yes,10.02,3.63,LeafWorks,USA,1.094
+646,EFP647,Reusable Recycled Plastic Lunch Box,Kitchen,Recycled Plastic,Yes,38.41,4.36,Sustainify,China,0.649
+647,EFP648,Reusable Glass Cutlery Set,Kitchen,Glass,Yes,5.94,3.88,GreenEarth,Vietnam,0.679
+648,EFP649,Eco Recycled Plastic File Holder,Office,Recycled Plastic,Yes,11.3,4.26,EarthCraft,USA,0.747
+649,EFP650,Eco Glass Makeup Remover,Beauty,Glass,Yes,42.73,4.04,NaturePro,USA,1.679
